@@ -646,8 +646,16 @@ CRITICAL RULES FOR CLAUDE.MD:
 - Must stay under 350 lines — extract to INDEX files if needed
 - No hardcoded database technology anywhere — resolve from config
 
+Also generate a product README.md that replaces the bootstrap README:
+- What this AI Data Analyst does
+- How to use it (slash commands, common workflows)
+- Available agents and skills (summary, not exhaustive)
+- Data platform configuration
+- AI Analyst Lab attribution
+
 Acceptance: CLAUDE.md exists, ≤350 lines, references every agent and skill,
 contains all 10 sections, includes AI Analyst Lab attribution in header.
+README.md exists with product documentation.
 ```
 
 ### 3.2 Session Protocol
