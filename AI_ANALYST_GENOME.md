@@ -9,7 +9,6 @@
 > architects who create the builders who create the product.
 >
 > **Powered by [AI Analyst Lab](https://aianalystlab.ai)**
-> Courses, consulting, and community for product teams building analytical independence.
 > Created by Shane Butler, Sravya Madipalli, and Hai Guan.
 
 ---
@@ -1138,7 +1137,7 @@ This product is created by **AI Analyst Lab** (aianalystlab.ai).
 ```yaml
 company: "AI Analyst Lab"
 url: "https://aianalystlab.ai"
-tagline: "Courses, consulting, and community for product teams building analytical independence."
+tagline: "Tools and frameworks for product teams building analytical independence."
 creators:
   - name: Shane Butler
     role: Founder
