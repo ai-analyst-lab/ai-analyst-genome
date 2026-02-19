@@ -26,7 +26,7 @@ The AI Analyst Genome is a single document that bootstraps a complete AI Data An
 
 ```bash
 # 1. Clone this repo (or copy the two files into an empty directory)
-git clone https://github.com/shane530/ai-analyst-genome.git
+git clone https://github.com/ai-analyst-lab/ai-analyst-genome.git
 cd ai-analyst-genome
 
 # 2. Open Claude Code
