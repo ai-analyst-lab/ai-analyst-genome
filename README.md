@@ -1,5 +1,10 @@
 # AI Analyst Genome
 
+> [!IMPORTANT]
+> **Note from Shane — February 22, 2026**
+>
+> This repo was last pushed to on February 19. Since then, the system has grown significantly through testing on more complex, real-world datasets. Everything below works, but the version we're running locally is substantially ahead of what's here. Major update coming in the next couple of days.
+
 **A self-building AI Data Analyst.** Drop this into an empty repo with Claude Code, answer 7 questions, and it builds itself — agents, skills, helpers, templates, and a full analysis pipeline.
 
 Powered by [AI Analyst Lab](https://aianalystlab.ai) | Created by Shane Butler, Sravya Madipalli, and Hai Guan
